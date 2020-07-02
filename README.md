@@ -114,6 +114,8 @@ I prefer them on a separate layer. I have them on my third layer, activated by h
 
 > Row 3 has presets and toggles.
 
+That's just the layout I like, feel free to arrange them in a way you prefer.
+
 #### 4.4  Define the presets and the keycodes
 
 **Find:**
@@ -259,6 +261,8 @@ I'm not a big fan of the default rainbow gradient scroll effect on the Alt / Ctr
 I've changed the scale to make the bands wider, wide enough that you only see about 3 colors max at once. 
 
 It's super easy to add this effect
+
+![Example keymap layout](https://i.imgur.com/ecMUaKd.jpg)
 
 ### 1. Copy the effect source file
 
