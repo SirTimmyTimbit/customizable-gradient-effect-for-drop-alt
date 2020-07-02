@@ -2,7 +2,7 @@
 
 This effect lets you create a custom RGB gradient for in-switch and/or underglow lights right from the keyboard. I have no way to test this on Ctrl but it should work on it too.
 
-![Header](https://i.imgur.com/f7bjh0g.jpg)
+![Header](https://i.imgur.com/te7Kyhh.jpg)
 
 ### 1. Enable custom user effects
 
